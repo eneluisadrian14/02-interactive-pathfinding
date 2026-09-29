@@ -1,0 +1,2 @@
+# Tkinter ships with standard CPython on Windows/macOS.
+# No extra packages required for the core interactive app.

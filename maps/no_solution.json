@@ -1,0 +1,18 @@
+{
+  "start": "Alpha",
+  "goal": "Omega",
+  "edges": [
+    ["Alpha", "Beta", 10],
+    ["Beta", "Gamma", 12],
+    ["Delta", "Epsilon", 8],
+    ["Epsilon", "Omega", 15]
+  ],
+  "positions": {
+    "Alpha": [0, 0],
+    "Beta": [2, 1],
+    "Gamma": [4, 0],
+    "Delta": [0, 4],
+    "Epsilon": [2, 5],
+    "Omega": [4, 4]
+  }
+}

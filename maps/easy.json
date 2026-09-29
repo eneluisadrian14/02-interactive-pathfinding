@@ -1,0 +1,23 @@
+{
+  "start": "Bucharest",
+  "goal": "Sofia",
+  "edges": [
+    ["Bucharest", "Athens", 1300],
+    ["Bucharest", "Budapest", 900],
+    ["Bucharest", "Warsaw", 946],
+    ["Budapest", "Belgrade", 316],
+    ["Belgrade", "Sofia", 330],
+    ["Athens", "Sofia", 400],
+    ["Budapest", "Vienna", 243],
+    ["Vienna", "Warsaw", 660]
+  ],
+  "positions": {
+    "Bucharest": [14, 3],
+    "Athens": [13, -2],
+    "Budapest": [11, 4],
+    "Warsaw": [11, 8],
+    "Belgrade": [11, 2],
+    "Sofia": [13, 1],
+    "Vienna": [9, 5]
+  }
+}
